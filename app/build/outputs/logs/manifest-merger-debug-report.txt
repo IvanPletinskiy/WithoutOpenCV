@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b6c2ff187084ef6d76ce9c4b5a8039f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:2:1-19:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-gestures-0.2.0.aar\311a6c33b33e413e51e2872bf77b8b61\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4c2d02cb2debaed9966e7e494b995940\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de60a6fe8cbd671c57a2cf03ed9a4e52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee6aeaa24b6437c3f251af390a59169f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e331fda1e07f80f86f0ab251d9cf1569\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5c86fd9c5c5558acbad5f94efc5bfa4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d6fb6dfa9ecf66dd1e1eb3c92246c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0115f2b1ff977aa4e2bbe2ad34d0067\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c0a4d2b384dc147ff1177f8365be7af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\13e8fb79b0af633851cd4a54bdaade0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\954b4113bf89e6b1c1be69af46fd770a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-0.2.0.aar\c45847fc8104d295a390c78433e1643b\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:3:11-50
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:5:11-37
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b6c2ff187084ef6d76ce9c4b5a8039f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b6c2ff187084ef6d76ce9c4b5a8039f\AndroidManifest.xml:9:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:15:5-17:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:15:5-17:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:22:5-28:19
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\954b4113bf89e6b1c1be69af46fd770a\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\954b4113bf89e6b1c1be69af46fd770a\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:10:9-67
+activity#org.opencv.samples.facedetect.FdActivity
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:14:19-56
+	android:label
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:13:19-51
+	android:configChanges
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:15:19-69
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:12:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:18:27-74
+supports-screens
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:23:5-27:51
+	android:largeScreens
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:26:23-50
+	android:smallScreens
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:24:23-50
+	android:normalScreens
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:25:23-51
+	android:resizeable
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:23:23-48
+	android:anyDensity
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:27:23-48
+uses-sdk
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b6c2ff187084ef6d76ce9c4b5a8039f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b6c2ff187084ef6d76ce9c4b5a8039f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:11:5-13:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:11:5-13:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-gestures-0.2.0.aar\311a6c33b33e413e51e2872bf77b8b61\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-gestures-0.2.0.aar\311a6c33b33e413e51e2872bf77b8b61\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:21:5-23:63
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4c2d02cb2debaed9966e7e494b995940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4c2d02cb2debaed9966e7e494b995940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de60a6fe8cbd671c57a2cf03ed9a4e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de60a6fe8cbd671c57a2cf03ed9a4e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee6aeaa24b6437c3f251af390a59169f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee6aeaa24b6437c3f251af390a59169f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e331fda1e07f80f86f0ab251d9cf1569\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e331fda1e07f80f86f0ab251d9cf1569\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5c86fd9c5c5558acbad5f94efc5bfa4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5c86fd9c5c5558acbad5f94efc5bfa4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d6fb6dfa9ecf66dd1e1eb3c92246c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d6fb6dfa9ecf66dd1e1eb3c92246c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0115f2b1ff977aa4e2bbe2ad34d0067\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0115f2b1ff977aa4e2bbe2ad34d0067\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c0a4d2b384dc147ff1177f8365be7af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c0a4d2b384dc147ff1177f8365be7af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\13e8fb79b0af633851cd4a54bdaade0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\13e8fb79b0af633851cd4a54bdaade0e\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\954b4113bf89e6b1c1be69af46fd770a\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\954b4113bf89e6b1c1be69af46fd770a\AndroidManifest.xml:5:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-0.2.0.aar\c45847fc8104d295a390c78433e1643b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-0.2.0.aar\c45847fc8104d295a390c78433e1643b\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:5-44
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:29:15-41
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:31:5-64
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:31:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:33:5-84
+	android:required
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:33:58-82
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:33:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:34:5-94
+	android:required
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:34:68-92
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:34:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:35:5-90
+	android:required
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:35:64-88
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:35:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:36:5-100
+	android:required
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:36:74-98
+	android:name
+		ADDED from C:\Android\Projects\OriginalTrafficSign\app\src\main\AndroidManifest.xml:36:19-73
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.INTERNET
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.3.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-sdk-6.3.0.aar\d85b8b811c8629fd2683fe91bf864457\AndroidManifest.xml:18:22-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\248944c89f4ca87114908693e0ff79f3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\829bb0d26cfcb996f85f80751d00d1a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98d6f6f3c1ad44c1110a9efa7d34ef5f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\105adc8550f399f3dda93ec220ba8da2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f45d93031a88414681e182ccfda2b79\AndroidManifest.xml:27:13-51
+service#com.mapbox.android.telemetry.TelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:16:9-81
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.1.4] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-3.1.4.aar\ea27b658de43d61dc413169becbc750a\AndroidManifest.xml:16:18-78
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\08e2b499faa514fa543a279b8de31e93\AndroidManifest.xml:24:13-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-0.2.0.aar\c45847fc8104d295a390c78433e1643b\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.0] C:\Users\Vanya\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-0.2.0.aar\c45847fc8104d295a390c78433e1643b\AndroidManifest.xml:11:22-76
